@@ -1,5 +1,5 @@
 {
-  "name": "roll-call",
+  "name": "roll-call-engine",
   "description": "The roll-call development engine for Claude Code.",
   "owner": {
     "name": "Erik Vazquez"

@@ -3,12 +3,12 @@
   "displayName": "roll-call",
   "description": "A self-enforcing development process for Claude Code: routes each change to the reviewer that owns it and proves the consult happened, gates publishing and packaging, and keeps the project's governing documents checked against reality. Includes a replaceable nine-seat roster that covers your development stack and then some.",
   "icon": "assets/icon.svg",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "author": {
     "name": "Erik Vazquez"
   },
-  "homepage": "https://github.com/ev4sec/roll-call",
-  "repository": "https://github.com/ev4sec/roll-call",
+  "homepage": "https://github.com/ev4sec/roll-call-engine",
+  "repository": "https://github.com/ev4sec/roll-call-engine",
   "license": "MIT",
   "keywords": [
     "process",

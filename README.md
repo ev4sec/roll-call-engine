@@ -127,8 +127,8 @@ Requirements: **Claude Code** and **Python 3.11 or newer**. The engine's
 machinery is written in Python. Your project does not have to be.
 
 ```
-/plugin marketplace add ev4sec/roll-call
-/plugin install roll-call@roll-call
+/plugin marketplace add ev4sec/roll-call-engine
+/plugin install roll-call@roll-call-engine
 ```
 
 Restart Claude Code (or run `/reload-plugins`), then, in the project you want

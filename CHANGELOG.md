@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.6.4 (2026-11-10)
+
+The engine has a new home. Nothing about how it runs changes.
+
+- **This repository is now `ev4sec/roll-call-engine`**, and its marketplace
+  is named `roll-call-engine`. The plugin is still named `roll-call`, so
+  every command keeps its name and nothing under your `.claude/` needs
+  editing. The install lines in the README carry the new names.
+- **Why it moved.** The plugin directory now accepts hooks and scripts only
+  from organizations it has verified, so the repository the directory
+  listing tracks, `ev4sec/roll-call`, has become a prose-only edition with
+  no hooks. The full engine, with everything through 0.6.3, continues here.
+- **If you installed from `ev4sec/roll-call`**, add this marketplace and
+  install from it before updating, or the update will remove the hooks.
+
 ## 0.6.3 (2026-11-09)
 
 Less waiting on every edit and every shell command, and three fixes found
